@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets/website/commit/ec1afc97897f0f632d26aa4d24cf6aab88e60501",
       "git:hexsha": "ec1afc97897f0f632d26aa4d24cf6aab88e60501",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
